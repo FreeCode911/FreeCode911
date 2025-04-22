@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [YAUploader](https://github.com/FreeCode911/YAUploader)
+- 🔭 I’m currently working on Nothing
 
-- 📫 How to reach me **email@legendyt4k.me**
+- 📫 How to reach me **lykcloud@dr.com**
 
 - ⚡ Fun fact **i donot know much about nodejs**
 
